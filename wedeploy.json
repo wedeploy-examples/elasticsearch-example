@@ -1,5 +1,7 @@
 {
 	"id": "es",
 	"image": "docker.elastic.co/elasticsearch/elasticsearch:5.5.2",
-	"volume": "/usr/share/elasticsearch/data"
+	"volume": "/usr/share/elasticsearch/data",
+	"memory": 1024,
+	"cpu": 2
 }
