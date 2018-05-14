@@ -2,7 +2,7 @@
 
 # Elasticsearch
 
-An example of [Elasticsearch](https://hub.docker.com/_/elasticsearch/) on [WeDeploy](https://wedeploy.com/).
+An example of [Elasticsearch](https://www.elastic.co/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
